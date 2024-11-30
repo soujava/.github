@@ -76,4 +76,4 @@ Medias oficiais da comunidade SouJava:
 - [Twitter](https://twitter.com/SouJava)
 - [Telegram](https://t.me/SouJavabr)
 - [Meetup](https://www.meetup.com/pt-BR/SouJava/)
-- [Discord](https://discord.gg/eAARnH7yrG)
+- [Discord](https://discord.soujava.org.br/)
